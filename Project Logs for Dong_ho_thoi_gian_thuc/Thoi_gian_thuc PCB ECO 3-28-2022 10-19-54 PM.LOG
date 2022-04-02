@@ -1,0 +1,19 @@
+Change Component Library : Designator=Q1_SS1 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS2 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS3 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS4 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS5 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS6 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Change Component Library : Designator=Q1_SS7 Old Library=APESLAB.SchLib New Library=Devzone_SCHLib.SchLib
+Added Room: Name=BB1
+Added Room: Name=BB2
+Added Room: Name=BB3
+Added Room: Name=BB4
+Added Room: Name=BB5
+Added Room: Name=SS1
+Added Room: Name=SS2
+Added Room: Name=SS3
+Added Room: Name=SS4
+Added Room: Name=SS5
+Added Room: Name=SS6
+Added Room: Name=SS7

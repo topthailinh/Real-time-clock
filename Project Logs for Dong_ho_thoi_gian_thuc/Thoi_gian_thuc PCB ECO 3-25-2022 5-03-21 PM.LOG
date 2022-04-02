@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=Mode Pin=R1_BB1-1
+Removed Pin From Net: NetName=Up Pin=R1_BB2-1
+Removed Pin From Net: NetName=Down Pin=R1_BB3-1
+Removed Pin From Net: NetName=Ok Pin=R1_BB4-1
+Removed Pin From Net: NetName=Alarm Pin=R1_BB5-1
+Removed Pin From Net: NetName=VCC Pin=RPB?-1
+Removed Pin From Net: NetName=A1 Pin=RPB?-2
+Removed Pin From Net: NetName=B1 Pin=RPB?-3
+Removed Pin From Net: NetName=C1 Pin=RPB?-4
+Removed Pin From Net: NetName=D1 Pin=RPB?-5
+Removed Pin From Net: NetName=E1 Pin=RPB?-6
+Removed Pin From Net: NetName=F1 Pin=RPB?-7
+Removed Pin From Net: NetName=G1 Pin=RPB?-8
+Removed Member From Class: ClassName=Thoi_gian_thuc Member=RPB?
+Change Component Comment : Designator=C1_BB1 Old Comment=102 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C1_BB2 Old Comment=102 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C1_BB3 Old Comment=102 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C1_BB4 Old Comment=102 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C1_BB5 Old Comment=102 New Comment=0.47uF/1.6kV
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CA-ALU-2.54"; UniqueID = "\BCHBIOFB" ("\BCHBIOFB")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CA-ALU-2.54"; UniqueID = "\OWUFUPTS" ("\OWUFUPTS")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "104"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS1" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\RBJAYLPO\AFGUBGNN" ("\RBJAYLPO\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS2" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\TFVFQFMR\AFGUBGNN" ("\TFVFQFMR\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS3" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\ETYSDJWA\AFGUBGNN" ("\ETYSDJWA\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS4" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\KBBXABVV\AFGUBGNN" ("\KBBXABVV\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS5" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\XCXLIIUC\AFGUBGNN" ("\XCXLIIUC\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS6" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\RTELKHIL\AFGUBGNN" ("\RTELKHIL\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_SS7" ("Q1"); Footprint = "SOT23-321"; UniqueID = "\LRISBHAL\AFGUBGNN" ("\LRISBHAL\AFGUBGNN")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS1" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\RBJAYLPO\EVPQAHWH" ("\RBJAYLPO\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS2" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\TFVFQFMR\EVPQAHWH" ("\TFVFQFMR\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS3" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\ETYSDJWA\EVPQAHWH" ("\ETYSDJWA\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS4" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\KBBXABVV\EVPQAHWH" ("\KBBXABVV\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS5" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\XCXLIIUC\EVPQAHWH" ("\XCXLIIUC\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS6" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\RTELKHIL\EVPQAHWH" ("\RTELKHIL\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2_SS7" ("Q2"); Footprint = "SOT23-321"; UniqueID = "\LRISBHAL\EVPQAHWH" ("\LRISBHAL\EVPQAHWH")
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=RPB1(RN8)
+Add component (AddParameter): Name = "Value"; Value = "Tro thanh 10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R1_BB1-1
+Added Pin To Net: NetName=Mode Pin=R1_BB1-2
+Added Pin To Net: NetName=VCC Pin=R1_BB2-1
+Added Pin To Net: NetName=Up Pin=R1_BB2-2
+Added Pin To Net: NetName=VCC Pin=R1_BB3-1
+Added Pin To Net: NetName=Down Pin=R1_BB3-2
+Added Pin To Net: NetName=VCC Pin=R1_BB4-1
+Added Pin To Net: NetName=Ok Pin=R1_BB4-2
+Added Pin To Net: NetName=VCC Pin=R1_BB5-1
+Added Pin To Net: NetName=Alarm Pin=R1_BB5-2
+Added Pin To Net: NetName=VCC Pin=RPB1-1
+Added Pin To Net: NetName=A1 Pin=RPB1-2
+Added Pin To Net: NetName=B1 Pin=RPB1-3
+Added Pin To Net: NetName=C1 Pin=RPB1-4
+Added Pin To Net: NetName=D1 Pin=RPB1-5
+Added Pin To Net: NetName=E1 Pin=RPB1-6
+Added Pin To Net: NetName=F1 Pin=RPB1-7
+Added Pin To Net: NetName=G1 Pin=RPB1-8
+Added Pin To Net: NetName=NetRPB1_9 Pin=RPB1-9
+Added Pin To Net: NetName=NetRPB1_9 Pin=U1-30
+Added Net: Name=NetRPB1_9
+Added Member To Class: ClassName=Thoi_gian_thuc Member=Component RPB1 10K

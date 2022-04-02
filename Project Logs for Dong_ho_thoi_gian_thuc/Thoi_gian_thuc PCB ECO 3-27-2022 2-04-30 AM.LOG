@@ -1,0 +1,28 @@
+Change Component Comment : Designator=R30 Old Comment=1K New Comment=Res
+Change Component Comment : Designator=R6 Old Comment=10K New Comment=Res
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=Res
+Change Component Comment : Designator=R20 Old Comment=10K New Comment=Res
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=Res
+Change Component Comment : Designator=X2 Old Comment=32Mhz New Comment=12Mhz
+Change Component Comment : Designator=C4 Old Comment=33pF New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C5 Old Comment=33pF New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C6 Old Comment=33pF New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C7 Old Comment=33pF New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C3 Old Comment=104 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C8 Old Comment=104 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C10 Old Comment=104 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=C11 Old Comment=104 New Comment=0.47uF/1.6kV
+Change Component Comment : Designator=R24 Old Comment=220R New Comment=Res
+Change Component Comment : Designator=R22 Old Comment=330R New Comment=Res
+Change Component Description : Designator=C1 Old Description=10uF New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C9 Old Description=10uF New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C4 Old Description=33pF New Description=0.47uF/1.6kV
+Change Component Description : Designator=C5 Old Description=33pF New Description=0.47uF/1.6kV
+Change Component Description : Designator=C6 Old Description=33pF New Description=0.47uF/1.6kV
+Change Component Description : Designator=C7 Old Description=33pF New Description=0.47uF/1.6kV
+Change Component Description : Designator=C2 Old Description=104/20V New Description=0.47uF/1.6kV
+Change Component Description : Designator=C3 Old Description=104/20V New Description=0.47uF/1.6kV
+Change Component Description : Designator=C8 Old Description=104/20V New Description=0.47uF/1.6kV
+Change Component Description : Designator=C10 Old Description=104/20V New Description=0.47uF/1.6kV
+Change Component Description : Designator=C11 Old Description=104/20V New Description=0.47uF/1.6kV
