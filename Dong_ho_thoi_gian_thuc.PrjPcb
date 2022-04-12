@@ -107,6 +107,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUOKAYBW
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Dong_ho_thoi_gian_thuc\Design Rule Check - Thoi_gian_thuc.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
